@@ -4,7 +4,7 @@
 A python module to generate SMARTS description from Markush structure.  
 
 ## 2. Current version and requirements
-current version = 1.0
+current version = 1.0  
 pyhon 3.10, 3.11
 
 ## 3. Copyright and license
